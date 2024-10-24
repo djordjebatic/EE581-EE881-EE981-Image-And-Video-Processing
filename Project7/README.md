@@ -1,2 +1,4 @@
-# Useful links/papers
-- https://www.nature.com/articles/s41597-024-03820-0 
+# Data Directories
+
+
+- Data can be accessed at: https://github.com/schurist/VarroaDataset/
